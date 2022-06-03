@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='209.159.152.66';
-USER='vpnmazasif_vpnmazasif';
-PASS='digi#0550013763';
-DBNAME='vpnmazasif_vpnmazasif';
+HOST='66.45.248.110';
+USER='digitelp_vpnmazasif';
+PASS='ME2HE2Di@';
+DBNAME='digitelp_vpnmazasif';
 
 install_require()
 {
